@@ -9,23 +9,35 @@
   "data":[
     { 
       "id": 1, 
-      "title": "json-server", 
-      "author": "typicode" 
+      "name":"abcd1",
+      "age":26,
+      "place":"up",
+      "batch_name":"web-18",
+      "profession":"student"
     },
     { 
       "id": 2, 
-      "title": "json-server2", 
-      "author": "typicode" 
+      "name":"abcd2",
+      "age":27,
+      "place":"upa",
+      "batch_name":"web-17",
+      "profession":"student"
     },
     { 
       "id": 3, 
-      "title": "json-server3", 
-      "author": "typicode" 
+      "name":"abcd3",
+      "age":28,
+      "place":"up2",
+      "batch_name":"web-16",
+      "profession":"student"
     },
     { 
       "id": 4, 
-      "title": "json-server4", 
-      "author": "typicode" 
+      "name":"abcd4",
+      "age":25,
+      "place":"u4",
+      "batch_name":"web-15",
+      "profession":"teacher"
     }
   ]
 }
